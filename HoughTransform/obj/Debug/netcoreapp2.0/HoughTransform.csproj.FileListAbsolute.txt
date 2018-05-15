@@ -1,0 +1,11 @@
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/bin/Debug/netcoreapp2.0/HoughTransform.deps.json
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/bin/Debug/netcoreapp2.0/HoughTransform.runtimeconfig.json
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/bin/Debug/netcoreapp2.0/HoughTransform.runtimeconfig.dev.json
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/bin/Debug/netcoreapp2.0/HoughTransform.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/bin/Debug/netcoreapp2.0/HoughTransform.pdb
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/obj/Debug/netcoreapp2.0/HoughTransform.csprojAssemblyReference.cache
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/obj/Debug/netcoreapp2.0/HoughTransform.csproj.CoreCompileInputs.cache
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/obj/Debug/netcoreapp2.0/HoughTransform.AssemblyInfoInputs.cache
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/obj/Debug/netcoreapp2.0/HoughTransform.AssemblyInfo.cs
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/obj/Debug/netcoreapp2.0/HoughTransform.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform/obj/Debug/netcoreapp2.0/HoughTransform.pdb

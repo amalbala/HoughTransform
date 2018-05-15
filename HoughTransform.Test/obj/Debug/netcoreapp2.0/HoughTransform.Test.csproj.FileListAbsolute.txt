@@ -1,0 +1,4 @@
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.csprojAssemblyReference.cache
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.csproj.CoreCompileInputs.cache
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.AssemblyInfoInputs.cache
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.AssemblyInfo.cs
