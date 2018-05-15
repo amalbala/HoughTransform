@@ -2,3 +2,16 @@
 /Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.csproj.CoreCompileInputs.cache
 /Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.AssemblyInfoInputs.cache
 /Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.AssemblyInfo.cs
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.Test.deps.json
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.Test.runtimeconfig.json
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.Test.runtimeconfig.dev.json
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.Test.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.Test.pdb
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/bin/Debug/netcoreapp2.0/HoughTransform.pdb
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.csproj.CopyComplete
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.dll
+/Users/amalbala/Documents/GitHub/HoughTransform/HoughTransform.Test/obj/Debug/netcoreapp2.0/HoughTransform.Test.pdb

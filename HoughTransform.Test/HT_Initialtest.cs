@@ -5,20 +5,20 @@ namespace HoughTransform.UnitTests.Services
 {
     public class HoughTransform_HelloWorld
     {
-        private readonly Program _prog;
+        private readonly Print _core;
 
         public HoughTransform_HelloWorld()
         {
-            _prog = new Program();
+            _core = new Print();
         }
 
         [Fact]
         public void HelloWorldTest()
         {
-            string[] args = string{"a"};
-            var result = _prog.Main();
+            
+            var result = _core.PrintHelloWorld();
 
-            Assert.False(result, "1 should not be prime");
+            Assert.True(result == "Hello World!", "Wrong string");
         }
     }
 }
