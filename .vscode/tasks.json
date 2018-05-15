@@ -10,6 +10,15 @@
                 "${workspaceFolder}/HoughTransform/HoughTransform.csproj"
             ],
             "problemMatcher": "$msCompile"
-        }
+        },
+        {
+            "label": "test",
+            "command": "dotnet",           
+            "args": [
+                "test",
+                "${workspaceFolder}/HoughTransform.Test/HoughTransform.Test.csproj"
+            ],           
+            "problemMatcher": "$msCompile"
+          }
     ]
 }
