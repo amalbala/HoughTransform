@@ -14,10 +14,18 @@
         {
             "label": "test",
             "command": "dotnet",           
+            "type": "shell",
+            "group": "test",
             "args": [
                 "test",
                 "${workspaceFolder}/HoughTransform.Test/HoughTransform.Test.csproj"
             ],           
+            "presentation": {
+                "echo": true,
+                "reveal": "silent",
+                "focus": false,
+                "panel": "shared"
+            },
             "problemMatcher": "$msCompile"
           }
     ]
